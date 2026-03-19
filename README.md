@@ -1,5 +1,5 @@
 # SaaS Revenue & Risk Intelligence System (FY26)
-![SaaS Dashboard](Dashboard_Preview.jpg)
+![Dashboard Preview](SaaS_Growth_Project%20Power%20BI%20dashboard.jpg)
 
 ## 🎯 Business Problem
 A subscription-based software company faced fluctuating revenue and lacked visibility into churn drivers. I developed this end-to-end BI system to transition the company from "reactive" data viewing to "proactive" risk management.

@@ -1,5 +1,8 @@
 # SaaS Growth & Revenue Intelligence System
+<br/>
 
+###  Executive Dashboard Preview
+![SaaS Revenue Intelligence Dashboard](03_Business_Intelligence_PowerBI/Dashboard_Preview.png)
 ## Project Objective
 This project marks a strategic shift from reactive data viewing to proactive revenue risk management. Using a raw, 7,043-record tracking dataset, I designed and implemented an end-to-end data pipeline to clean volatile infrastructure inputs, architect a relational Star Schema, compute non-negotiable SaaS performance indicators (KPIs), and construct an interactive executive dashboard outlining retention solutions.
 
